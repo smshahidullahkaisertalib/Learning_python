@@ -1,0 +1,5 @@
+name = input("Enter your name:")
+print(name)
+print(len(name))
+print(name[0])
+print(name.count('talib'))
